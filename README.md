@@ -1,4 +1,6 @@
 
+---
+
 # 💻 Java QA Automation Portfolio
 
 > Repositório criado para demonstrar meus aprendizados, práticas e projetos de **automação de testes e desenvolvimento Java**, com foco em qualidade de software e backend bancário.
@@ -68,8 +70,8 @@ Aqui estão as principais ferramentas e tecnologias que utilizo ou estou aprende
 
 ## 📬 Contato
 
-💼 [LinkedIn]([https://www.linkedin.com/in/marcos-gabriel-da-rosa/)
-💻 [GitHub](https://github.com/marcosgabrieldarosa)
+💼 [LinkedIn](https://www.linkedin.com/in/marcos-gabriel-da-rosa/)  
+💻 [GitHub](https://github.com/marcosgabrieldarosa)  
 📧 [marcosgabrieldarosa.dev@gmail.com](mailto:marcosgabrieldarosa.dev@gmail.com) 
 
 ---
